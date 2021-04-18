@@ -2,6 +2,8 @@
 # Tags: histórico dividendos brasileiros; histórico dividendos bolsa de valores ; histórico dividendos b3; dividendos bolsa brasil
 #
 # O código abaixo extrai os dividendos históricos pra uma empresa facilmente, em um formato fácil de manusear
+#
+# Créditos para a responsável pelo repositório: https://github.com/ranaroussi/yfinance
 
 import pandas_datareader.data as web
 #Para limpar possíveis bugs do data_reader para o yahoo
